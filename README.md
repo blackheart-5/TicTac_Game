@@ -1,2 +1,2 @@
-# Milestones
-CS Projects Worked On
+# Projects Milestones
+
